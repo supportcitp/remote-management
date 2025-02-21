@@ -1,0 +1,10 @@
+{
+  "Servers": [
+    {
+      "ServerUUID": "00000000-0000-0000-0000-000000000000",
+      "Organization": "Ritual Lab DC",
+      "EnrollmentURL": "https://enrollment.manage.microsoft.com/enrollmentserver/discovery.svc",
+      "AuthenticationMethod": "Device"
+    }
+  ]
+}
